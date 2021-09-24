@@ -8,6 +8,7 @@
     1px 4px 6px rgba(0, 0, 0, 0.16);
   background-color: #fff;
 }
+
 .item:not(:last-child) {
   margin-bottom: 15px;
 }
